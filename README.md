@@ -5,7 +5,9 @@ This repository contains Java programs developed during my internship at CodSoft
 A system that:
 
 • Accepts subject marks (out of 100).
+
 • Calculates total marks, average percentage, and assigns grades based on predefined criteria.
+
 • Displays the results in a clean and formatted output.
 
 ### Output
